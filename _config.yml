@@ -1,7 +1,7 @@
 
-title: Alexander Bogomolny: All about me
-author: Alexander Bogomolny
-email: alexandernjd@gmail.com
+title: "Alexander Bogomolny: All about me"
+author: "Alexander Bogomolny"
+email: "alexandernjd@gmail.com"
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   I am from East Brunswick, New Jersey.
@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I try to be the best person I can be and I hope you enjoy my web page :)
 
 # social links
-twitter_username: alexbogomolny # DO NOT include the @ character, or else the build will fail!
-github_username:  alexbogomolny # DO NOT include the @ character, or else the build will fail!
+twitter_username: "alexbogomolny" # DO NOT include the @ character, or else the build will fail!
+github_username:  "alexbogomolny" # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
